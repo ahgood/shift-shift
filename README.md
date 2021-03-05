@@ -8,8 +8,8 @@ Providing shorts `shift+shift` and `ctrl+ctrl` to call `quick open` and `command
 
 `shift + shift` or `alt + alt`
 
-![Screenshot](screenshot-quick-open.png)
+![Screenshot](https://github.com/ahgood/shift-shift/raw/master/screenshot-quick-open.png)
 
 `ctl + ctl`
 
-![Screenshot](screenshot-command-palette.png)
+![Screenshot](https://github.com/ahgood/shift-shift/raw/master/screenshot-command-palette.png)
