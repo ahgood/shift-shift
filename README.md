@@ -2,14 +2,14 @@
 
 *Require VS Code 1.54 or above / VS Code Insider*
 
-Provide shortcuts `shift+shift` and `ctrl+ctrl` to call `quick open` or `command palette` without editing `keybindings.json`.
+Provide shortcuts <kbd>shift</kbd> + <kbd>shift</kbd> and <kbd>ctrl</kbd> + <kbd>ctrl</kbd> to call `quick open` or `command palette` without editing `keybindings.json`.
 
 ## How to use
 
-`shift + shift` or `alt + alt`
+<kbd>shift</kbd> + <kbd>shift</kbd> or <kbd>alt</kbd> + <kbd>alt</kbd>
 
 ![Screenshot](https://github.com/ahgood/shift-shift/raw/master/screenshot-quick-open.png)
 
-`ctl + ctl`
+<kbd>ctl</kbd> + <kbd>ctl</kbd>
 
 ![Screenshot](https://github.com/ahgood/shift-shift/raw/master/screenshot-command-palette.png)

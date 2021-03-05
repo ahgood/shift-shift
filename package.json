@@ -4,7 +4,7 @@
   "repository": "https://github.com/ahgood/shift-shift",
   "displayName": "shift shift",
   "description": "Provide shortcuts `shift+shift` and `ctrl+ctrl` to call `quick open` and `command palette` without editing `keybindings.json`.",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.54.0"
