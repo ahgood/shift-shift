@@ -1,0 +1,48 @@
+{
+  "name": "shift-shift",
+  "displayName": "shift shift",
+  "description": "Providing shorts `shift+shift` and `ctrl+ctrl` to call `quick open` and `command palette` without editing keybindings.json.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "keybindings": [
+      {
+        "command": "workbench.action.quickOpen",
+        "key": "shift shift",
+        "mac": "shift shift"
+      },
+      {
+        "command": "workbench.action.quickOpen",
+        "key": "alt alt",
+        "mac": "alt alt"
+      },
+      {
+        "command": "workbench.action.showCommands",
+        "key": "ctrl ctrl",
+        "mac": "ctrl ctrl"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.1.3",
+    "@types/mocha": "^8.0.4",
+    "@types/node": "^12.11.7",
+    "@types/vscode": "^1.54.0",
+    "eslint": "^7.19.0",
+    "glob": "^7.1.6",
+    "mocha": "^8.2.1",
+    "typescript": "^4.1.3",
+    "vscode-test": "^1.5.0"
+  }
+}
