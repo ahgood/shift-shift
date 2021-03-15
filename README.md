@@ -1,8 +1,12 @@
 # shift shift
 
-*Require VS Code 1.54 or above / VS Code Insider*
+*Require VS Code 1.54 or above*
 
 Provide shortcuts <kbd>shift</kbd> + <kbd>shift</kbd> and <kbd>ctrl</kbd> + <kbd>ctrl</kbd> to call `quick open` or `command palette` without editing `keybindings.json`.
+
+## Installation
+
+https://marketplace.visualstudio.com/items?itemName=ahgood.shift-shift
 
 ## How to use
 
